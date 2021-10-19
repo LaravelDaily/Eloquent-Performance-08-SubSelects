@@ -1,4 +1,4 @@
-## Eloquent Performance Course: Demo of N+1 Queries and Debugbar
+## Eloquent Performance Course: Demo of SubSelect
 
 One repository from my course about Eloquent Performance.
 
